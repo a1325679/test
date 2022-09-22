@@ -1,5 +1,8 @@
 #include"memory_pool.h"
- 
+
+
+
+
 memory_pool_colume * b_p = NULL;
 int buffer_pool_no = 0;
  
